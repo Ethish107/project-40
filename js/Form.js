@@ -13,7 +13,7 @@ class Form{
     }
     display() {
         this.title.html("FRUIT CATCHER");
-        this.title.position(430, 50);
+        this.title.position(500, 50);
         this.title.style('font-size', '70px');
         this.title.style('color', 'skyblue');
         this.input.position(900,400);
